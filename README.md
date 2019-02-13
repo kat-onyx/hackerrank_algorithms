@@ -1,1 +1,1 @@
-# hackerrank_algorithms
+# HackerRank Problem Sets
